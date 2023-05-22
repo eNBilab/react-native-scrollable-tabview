@@ -26,6 +26,8 @@
   },
   "peerDependencies": {},
   "homepage": "https://github.com/summerkiflain/react-native-scrollable-tabview#readme",
-  "dependencies": {},
+  "dependencies": {
+    "deprecated-react-native-prop-types": "^4.1.0"
+  },
   "devDependencies": {}
 }
