@@ -1,6 +1,6 @@
 {
-  "name": "@summerkiflain/react-native-scrollable-tabview",
-  "version": "0.10.9",
+  "name": "@enbilab/react-native-scrollable-tabview",
+  "version": "0.11.0",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/summerkiflain/react-native-scrollable-tabview.git"
+    "url": "git+https://github.com/enbilab/react-native-scrollable-tabview.git"
   },
   "keywords": [
     "react-native-component",
@@ -22,10 +22,10 @@
   "author": "Summer Kiflain <Summer Kiflain>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/summerkiflain/react-native-scrollable-tabview/issues"
+    "url": "https://github.com/enbilab/react-native-scrollable-tabview/issues"
   },
   "peerDependencies": {},
-  "homepage": "https://github.com/summerkiflain/react-native-scrollable-tabview#readme",
+  "homepage": "https://github.com/enbilab/react-native-scrollable-tabview#readme",
   "dependencies": {
     "deprecated-react-native-prop-types": "^4.1.0"
   },
